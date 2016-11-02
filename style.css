@@ -1,0 +1,16 @@
+img {
+    width: 600px;
+    height: 500px;
+    display: block;
+    margin: auto;
+}
+
+#boom {
+   font-family: Jokerman;
+   text-align: center;
+   color: red;
+}
+
+#around {
+    text-align:center;
+}
